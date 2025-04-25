@@ -1,6 +1,8 @@
 # Prerequisites
 install pandas  
-```pip install pandas```
+```
+pip install pandas
+```
 ## about the code
 delimiter used \t  
 note: change the delimiter if needed(e.g. ;  , :)
